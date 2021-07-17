@@ -1,17 +1,15 @@
 
 
-*********************************************************
-*      Sorry Game // 6.1.2020 // Manos Chatzakis		*
-* 														*
-*														*
-* This readme file contains useful tips to play			*
-* the board game, in a way that the game works 			*
-* properly without bugs.	          					*
-*														*
-*														*
-*														*
-*                   Manos Chatzakis, csd4238@csd.uoc.gr *
-*********************************************************
+*      Sorry Game // 6.1.2020 // Manos Chatzakis		
+* 														
+*														
+* This readme file contains useful tips to play		
+* the board game, in a way that the game works 			
+* properly without bugs.	          					
+*														
+*													
+*													
+*                   Manos Chatzakis, csd4238@csd.uoc.gr 
 
 
 ---------------------------------------------------------
